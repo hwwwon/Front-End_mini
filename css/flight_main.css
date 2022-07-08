@@ -242,6 +242,11 @@ button.air_search:hover{
   justify-content: space-between;
 }
 
+.recently_colse_btn .close{
+  cursor: pointer;
+  font-size: 16px;
+}
+
 .recently_colse_btn{
   cursor: pointer;
 }
